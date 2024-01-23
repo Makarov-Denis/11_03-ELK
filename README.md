@@ -57,7 +57,8 @@
 ### Ответ:
 Выполнение задания представлено на скриншотах ниже:
 
-![Снимок77](https://github.com/Makarov-Denis/11_03-ELK/assets/148921246/a0b79934-869c-4c24-8811-ae0102cdb053)
+![image](https://github.com/Makarov-Denis/11_03-ELK/assets/148921246/ca3fe279-51a9-4eba-9a79-b10da54f7195)
+
 
 ![Снимок75](https://github.com/Makarov-Denis/11_03-ELK/assets/148921246/f746bc73-9fba-43ba-919e-839c29e90b4c)
 
